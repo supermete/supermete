@@ -15,7 +15,7 @@ I’ve spent ~14 years building **embedded systems** that are expected to work *
 - 🎨 Crafting smooth GUIs with Python and Qt
 - 📦 Collaborated with leading engineering companies in 🇯🇵, 🇫🇷, 🇩🇪, and 🇨🇭
 - 🔨 Built, trained and led teams of up to 10 engineers
-- ⚡ Fun fact: I work better when everyone's sleeping
+- ⚡ Fun fact: I work better when everyone's asleep
 
 ---
 

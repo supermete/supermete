@@ -1,9 +1,6 @@
-# Hi, I’m Rodolphe 👋
+# Hello, I’m Rodolphe.
 
-I write software so machines behave 🤖,  
-and occasionally help humans do the same.
-
-I’ve spent ~14 years building **embedded systems** that are expected to work *every time*, often in **safety-critical environments**. These days, I also enjoy **leading teams**, shaping clean architectures, and helping engineers do their best work—without surprises at 3 a.m. 🕒
+I have 14+ years of experience designing and delivering reliable embedded systems, primarily in safety-critical environments. My work increasingly focuses on technical leadership, system architecture, and building high-performing engineering teams.
 
 ---
 
